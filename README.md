@@ -42,7 +42,7 @@
 * [Node.js](https://nodejs.org/)
 * [Yarn](https://classic.yarnpkg.com/)
 
-### Para ter uma experiencia completo da aplicação, precisara clonar a parte da api do Happy e seguir as intruções de instalaçao
+#### Para ter uma experiencia completo da aplicação, precisara clonar a parte da api do Happy e seguir as intruções de instalaçao
 
 * [Happy-API](https://github.com/douglaswmartins/Happy-Api)
 
