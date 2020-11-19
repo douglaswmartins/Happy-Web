@@ -25,7 +25,9 @@
 
 ## :computer: Projeto
 
-#### Essa é a parte web da aplicação desenvolvida durante o workshop Next Level Week 3 da [rocketseat](https://rocketseat.com.br/), o objetivo da aplicação é conectar pessoas e casas de acolhimento.
+Essa é a parte web da aplicação desenvolvida durante o workshop Next Level Week 3 da [rocketseat](https://rocketseat.com.br/).
+
+O objetivo da aplicação é conectar pessoas e casas de acolhimento.
 
 ---
 
