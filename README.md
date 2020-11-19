@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-  <img width="700" height="360" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Web/master/.github/landing.png?token=AK5ZX5OSWB3KNRBH6O46HOS7W3Y2K" alt="Landing page">
+  <img width="700" height="360" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Web/master/.github/landing.png" alt="Landing page">
 </p>
 
 <p align="center">
-  <img width="700" height="360" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Web/master/.github/map.png?token=AK5ZX5O54SH42VVZ6HJMB327W3Y2M" alt="Map">
+  <img width="700" height="360" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Web/master/.github/map.png" alt="Map">
 </p>
 
 ---
